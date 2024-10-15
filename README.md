@@ -1,14 +1,12 @@
-# VidPanos
-Official repository of SIGGRAPH Asia 2024 paper, VidPanos: Generative Panoramic Videos from Casual Panning Videos
+## VidPanos: Generative Panoramic Videos from Casual Panning Videos
+#### [Project Page](https://jingweim.github.io/vidpanos/) | [Video](https://www.youtube.com/watch?v=93HHOnISoqk) | [arXiv](https://arxiv.org) | [Paper](https://jingweim.github.io/vidpanos/static/pdfs/arxiv_v3.pdf)
+
+This repository contains the official data and evaluation code release for SIGGRAPH Asia 2024 paper, "VidPanos: Generative Panoramic Videos from Casual Panning Videos".
 
 <img src="./assets/teaser.gif" height="176px"/>
 
-
-## Benchmark Release
-We release synthetic/real panning videos and evaluation metrics used in the paper.
-
 ### Data
-The video data can be downloaded here [insert link].
+The synthetic/real videos can be downloaded here [insert link].
 
 ### Evaluation Metrics
-We include colabs for running metrics [insert link].
+We release colabs for running evaluation metrics in the paper [insert link].
