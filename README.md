@@ -1,7 +1,7 @@
 # VidPanos
 Official repository of SIGGRAPH Asia 2024 paper, VidPanos: Generative Panoramic Videos from Casual Panning Videos
 
-![Alt text](./assets/teaser.gif)
+<img src="./assets/teaser.gif" height="176px"/>
 
 
 ## Benchmark Release
