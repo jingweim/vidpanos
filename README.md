@@ -1,14 +1,14 @@
 ## VidPanos: Generative Panoramic Videos from Casual Panning Videos
 #### [Project Page](https://jingweim.github.io/vidpanos/) | [Video](https://www.youtube.com/watch?v=93HHOnISoqk) | [arXiv](https://arxiv.org) | [Paper](https://jingweim.github.io/vidpanos/static/pdfs/arxiv_v3.pdf)
 
-This repository contains the data and evaluation code for SIGGRAPH Asia 2024 paper, "VidPanos: Generative Panoramic Videos from Casual Panning Videos".
+This is the official repository for SIGGRAPH Asia 2024 paper, "VidPanos: Generative Panoramic Videos from Casual Panning Videos". We release our test videos and evaluation code as a benchmark for the Panoramic Video Completion task.
 
 <img src="./assets/teaser.gif" height="176px"/>
 
-### Data
-The synthetic/real videos can be downloaded [here](https://drive.google.com/file/d/1drYHcr4vI3cs2IZwwo0KNJJHx8o8CMpq/view?usp=sharing).
+### Test Videos
+The synthetic/real input videos can be downloaded [here](https://drive.google.com/file/d/1drYHcr4vI3cs2IZwwo0KNJJHx8o8CMpq/view?usp=sharing).
 
-### Directory structure
+#### Directory Structure
 <pre>
 data/                        
     real/                                            # real/captured videos
@@ -37,5 +37,5 @@ data/
         ...
 </pre>
 
-### Evaluation Code | Results
-We release a jupyter notebook and result/gt videos for running the evaluation metrics [insert link].
+### Evaluation Code
+We release an evaluation notebook and relevant files (result/gt videos) for running the notebook can be downloaded here [insert link].
