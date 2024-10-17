@@ -38,4 +38,4 @@ data/
 </pre>
 
 ### Evaluation Code
-We release an evaluation notebook and relevant files (result/gt videos) for running the notebook can be downloaded here [insert link].
+We release an evaluation colab and relevant files (result/gt videos) for running it ([link](https://drive.google.com/drive/folders/1u03i6w5ZdwxBOQK2FsWC6el365ysHv2Z?usp=sharing)).
