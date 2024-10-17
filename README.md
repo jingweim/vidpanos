@@ -6,7 +6,7 @@ This is the official repository for SIGGRAPH Asia 2024 paper, "VidPanos: Generat
 <img src="./assets/teaser.gif" height="176px"/>
 
 ### Evaluation Code
-We release an [evaluation colab](https://colab.research.google.com/drive/1yPWg5-5iNkZBglD9m4yZxgDUoE27kfbX?usp=sharing) and relevant files (result/gt videos) for running it ([link](https://drive.google.com/drive/folders/1u03i6w5ZdwxBOQK2FsWC6el365ysHv2Z?usp=sharing)).
+We release an [evaluation colab](https://colab.research.google.com/drive/1yPWg5-5iNkZBglD9m4yZxgDUoE27kfbX?usp=sharing) and [relevant files](https://drive.google.com/drive/folders/1u03i6w5ZdwxBOQK2FsWC6el365ysHv2Z?usp=sharing) (result/gt videos) for running it.
 
 <img src="./assets/colab.png" height="300px"/>
 
