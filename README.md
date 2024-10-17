@@ -1,9 +1,15 @@
 ## VidPanos: Generative Panoramic Videos from Casual Panning Videos
-#### [Project Page](https://jingweim.github.io/vidpanos/) | [Video](https://www.youtube.com/watch?v=93HHOnISoqk) | [arXiv](https://arxiv.org) | [Paper](https://jingweim.github.io/vidpanos/static/pdfs/arxiv_v3.pdf)
+#### [Project Page](https://jingweim.github.io/vidpanos/) | [Video](https://www.youtube.com/watch?v=93HHOnISoqk) | [arXiv](https://arxiv.org) | [Paper](https://jingweim.github.io/vidpanos/static/pdfs/arxiv_v3.pdf) | [Colab(eval)](https://colab.research.google.com/drive/1yPWg5-5iNkZBglD9m4yZxgDUoE27kfbX?usp=sharing)
 
 This is the official repository for SIGGRAPH Asia 2024 paper, "VidPanos: Generative Panoramic Videos from Casual Panning Videos". We release our test videos and evaluation code as a benchmark for the Panoramic Video Completion task.
 
 <img src="./assets/teaser.gif" height="176px"/>
+
+### Evaluation Code
+We release an [evaluation colab](https://colab.research.google.com/drive/1yPWg5-5iNkZBglD9m4yZxgDUoE27kfbX?usp=sharing) and relevant files (result/gt videos) for running it ([link](https://drive.google.com/drive/folders/1u03i6w5ZdwxBOQK2FsWC6el365ysHv2Z?usp=sharing)).
+
+<img src="./assets/colab.png" height="300px"/>
+
 
 ### Test Videos
 The synthetic/real input videos can be downloaded [here](https://drive.google.com/file/d/1drYHcr4vI3cs2IZwwo0KNJJHx8o8CMpq/view?usp=sharing).
@@ -37,5 +43,3 @@ data/
         ...
 </pre>
 
-### Evaluation Code
-We release an evaluation colab and relevant files (result/gt videos) for running it ([link](https://drive.google.com/drive/folders/1u03i6w5ZdwxBOQK2FsWC6el365ysHv2Z?usp=sharing)).
